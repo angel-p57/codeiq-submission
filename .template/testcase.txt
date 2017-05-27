@@ -1,0 +1,3 @@
+#in	out
+XXX\tXXX
+※本番データ
