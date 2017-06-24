@@ -1,0 +1,3 @@
+#in	out
+L9R9B9	19a
+RRRB1	1D
