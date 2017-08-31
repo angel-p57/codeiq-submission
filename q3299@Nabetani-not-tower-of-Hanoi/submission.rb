@@ -2,6 +2,7 @@ p ->s{
   (f=->a{
     t=a.size
     return t if t<=2
+    return 1+f[a[0..t-2]] if a.count{|e|e>a[-1]}<=1
     if a[1]>=a[0]
       x=a.index{|e|e<a[0]} or return t
     else
