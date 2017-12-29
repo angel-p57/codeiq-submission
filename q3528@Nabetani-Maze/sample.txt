@@ -1,0 +1,5 @@
+#in	out
+a8K	4
+b9L	4
+cAS	3
+dR3	8
