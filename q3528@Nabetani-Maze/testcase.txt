@@ -1,0 +1,13 @@
+#in	out
+a5G	3
+aBL	14
+aAB	19
+bP1	10
+b5B	19
+b7D	11
+c1F	6
+cXF	9
+cFE	15
+d0E	22
+dC0	22
+dMG	5
