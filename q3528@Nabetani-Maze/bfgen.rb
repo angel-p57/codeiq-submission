@@ -1,3 +1,4 @@
+# the code generator of "another.bf"
 f=->c,g{
   s=[24,18,28,22][c.ord-97]
   hnodes="08DFGLOPSW".chars
