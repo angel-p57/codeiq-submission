@@ -1,0 +1,2 @@
+#yhpg e20 ( http://nabetani.sakura.ne.jp/hena/orde20maze/ ) で組んだコード、
+https://github.com/angel-p57/yhpg/blob/master/e20/solve.rb の焼き直し
